@@ -33,7 +33,8 @@ a.font-black {
 
 #about img {
   border-radius: 50%;
-  width: 120px;
+  width: 30%;
+  height: 140px;
   margin-bottom: 10px;
 }
 
@@ -73,6 +74,12 @@ project
 
 #project .card img {
   width: 100%;
+}
+
+#project .project-video {
+  width: 100%;
+  height: 300px;
+  background-color: #000;
 }
 
 #project.card-title {
